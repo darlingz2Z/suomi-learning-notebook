@@ -24,6 +24,4 @@
 		- iso auto -> a/the big car
 		- iso-ssa auto-ssa in a/the big car
 		- iso-n auto-n of a/the big car
-3.发音的长短会变成不同单词。
-
-# Chapter 2: pronunciation
+3. 发音的长短会变成不同单词。
