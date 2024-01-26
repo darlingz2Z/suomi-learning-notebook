@@ -2,6 +2,6 @@
 
 textbook:
 - Finnish: An Essential Grammar - Fred Karlsson
-- Suomigami - from my tutor
+- Suomigami - from my tutor **Petri Tapala**
 
 comment language: zh / en 
