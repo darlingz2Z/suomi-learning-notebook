@@ -1,0 +1,22 @@
+# 2-6-2024 Greetings
+- Mitä kuuluu - how are you
+- Hyvä hyvä
+- Entä - What about…
+- terve - hey
+- Hauska(have fun) tutustua (to know something)! 
+	- = Hauska tavata (to meet)! - nice to meet you.
+- huonoa - not good / bad
+	- puhu = evil
+- Ihan ok - just OK (oo koo)
+- Tosi hyvää - very good
+- Tosi huonoa - very bad
+- Samoin - Likewise (same here) 
+	- also can be used with agree sb. opinion (me too).
+- Hyvää huomenta! Huomenta!
+- Hyvää päivää! - good day!
+- Hyvää iltaa! - good evening!
+- Hyvää yöta! - good night!
+- Terve = Healthy
+- Moikka!/Näkemiin!/Moikka/Heippa! - See you!
+- Ole hyvä - you are welcome
+- Olet hyvä - you are good
