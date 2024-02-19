@@ -5,7 +5,7 @@
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | Nominative 主格 | - | basic form | auto | car | subject主语或句子的基本形式 |
 | Genitive 所有格 | -n | possession 所有者 | auto-n | of a/the car | 所有关系，归该nomination所有 |
-| Accusative 宾格 | -t | object ending | häne-t | him/her | object宾语的结尾 |
+| Accusative 对象格 | -a(元音)/-t(辅音) | object ending | häne-t | him/her | object宾语的结尾 |
 | Partitive 部分格 | -A | indefinite 不确定 | maito-a | (some) milk | 未给出具体数量 |
 |  | -tA | quanitity 特定 (在文中补充) | vet-tä | (some) water | veti结尾i所以-tÄ (vowel harmony) |
 |  | -ttA |  | perhe-ttä | (some) family | perhe 结尾e所以-ttÄ (vowel harmony) |
