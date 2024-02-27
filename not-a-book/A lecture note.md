@@ -76,3 +76,71 @@
 	- (not illegal or offensive, just weird).
 	- Don't ask a Finn about their salary!
 - Everyone must have the same base salary in the same job.
+# 2-20-2024 I have...
+- Minulla on... I have
+    - Suomessa ei ole verbiä to have. -nulla on + adjcetive + noun.
+    - Entä... - What about...
+    - Ending choose
+        - ﻿﻿![](Pasted%20image%2020240227214533.png)
+    - negative to be - ei + verb.
+        - minä en
+        - sinä et
+        - hän/se ei
+        - me emme
+        - te ette
+        - he eivät
+    - I dont have.... Minulla ei ole.... + partitive
+    - n.+ -lla / -llä on.... none has....
+    - Minulla oli... I had... + adj. + none.
+- Kenellä on ...? Who has...?
+    - Minulla!
+- Talking about Family
+    - ainoa lapsi - the only child
+    - isoäiti/ mummo - grandmother
+    - isoisä/ vaari/ pappa - grandfather
+    - laosenlapsi - child of child - grandchild
+    - pikku(little) pieni - little sister
+    - iso(big) pieni - older sister
+    - tai - two things or
+    - vai - more than three things or
+# 2-27-2024 Perhe
++ Millainen perhe sinulla on? Millainen sinun veli/sisko/äiti/isä on?
+	+ äiti - mother
+	+ isä - father
+	+ lapsi -child
+	+ veli - brother
+	+ sisko - sister
+	+ ainoa - only
+		- ainoa lapsi - the only child
+    - isoäiti/ mummo / mummi / mummu- grandmother
+    - isoisä/ vaari / pappa - grandfather
+    - laosenlapsi - child of child - grandchild
+    - pikku(little) pieni - little sister
+	    - iso(big) pieni - older sister
+    - tai - two things or
+    - vai - more than three things or
+- Finnish also have words which are impolite:
+	- fat = lihava -> instead of : tyhmä (round) paksu (chubby / thick)
+	- If you feel be offended, to respond: Anteeksi, tuo on epäkohteliasta. ( Sorry, that is impolite.)
++ Numbers
+	+ ![](Pasted%20image%2020240227210709.png)
++ Ikä/Age - It also not very polite in Finland.
+	+ Kuinka/miten (how?) vanha(old) (sinä) olet?
+		+ Kuinka/miten monta (how many).
+	+ Minkä(of what) ikäinen(aged) (sinä) olet?
+		+ "Minkä" is the genitive form of "mikä"
+		+ Answers the question **whose?** or **of what?**
+			+ use it when you need to use genetive. 
+		- Minkä ikäinen? = Of what age?
+		- Mikä maa? - What country?
+		- Minkä maan kaupunki Helsinki on? - Of which country is the city Helsinki?
+	+ Olen xx - vuotias(years).
+	+ Olen xx - vuotta(years) vanha(old).
++ adj + -mpi -> more than (adj + -er in English)
++ How to use the podcast?
+	+ Listen (don't read yet) slowly
+	+ Read it through a few times
+	+ Listen and follow the text at the same time
+	+ Only when you feel familar with the text,start to translate it.
+	+ Translate the podcast one phrase at a time.
+	+ Keep listening
