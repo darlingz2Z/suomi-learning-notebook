@@ -134,7 +134,9 @@
 		- Minkä ikäinen? = Of what age?
 		- Mikä maa? - What country?
 		- Minkä maan kaupunki Helsinki on? - Of which country is the city Helsinki?
-	+ Olen xx - vuotias(years).
+	+ Olen xx - vuotias(years old).
+		+ vuosi = year
+		+ ikä = age
 	+ Olen xx - vuotta(years) vanha(old).
 + adj + -mpi -> more than (adj + -er in English)
 + How to use the podcast?
@@ -144,3 +146,11 @@
 	+ Only when you feel familar with the text,start to translate it.
 	+ Translate the podcast one phrase at a time.
 	+ Keep listening
+# 2-29-2024
+- Verbit luokka 1 - first group of verb
+- 
+	- partitiivi / partivie (PART of something)  
+	+ genetiivi / genitive (whose? / ALL OF something) = +-n
+- Negative sentences
+- juhlapäivä - festival
+	- book - kalevala 
