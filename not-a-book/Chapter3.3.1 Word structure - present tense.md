@@ -3,7 +3,7 @@
 - There are six groups is most often used.
 - To conjugate a verb, we need to find the stem first.
 # group 1
-- The verb infinitive *ends in two vocals* (a, e, i, o, u, y, ä, ö)
+- The verb infinitive *ends in two vowels* (a, e, i, o, u, y, ä, ö)
 - Those vowels can be in many orders, but the *last vowel* is always a or ä.
 **STEM**: remove the final -a/-ä
 **Conjugate**: input - Ostaa(buy)
@@ -19,8 +19,12 @@
 
 ## astevaihtelu (consonant gradation) 辅音弱化 
 - Following three consonants: K/ T/ P
-	- Appear in the middle of a word
+	- Appear in the word
 	- a case ending is added
+- STEP to FIND the STEM
+	- remove the last word
+	- find the last constant
+	- check the chart
 
 | rules( srong -> weak ) | example                              | EN                 |
 | ---------------------- | ------------------------------------ | ------------------ |
@@ -36,22 +40,24 @@
 | MP -> MM               | empiä -> minä emmin, hän empii       | to hesitate        |
 | NT -> NN               | antaa -> minä annan, hän antaa       | to give            |
 | LT -> LL               | kieltää -> minä kiellän, hän kieltää | to forbid          |
-| RT -> RR               | vartoa ->minä varron, hän vartoo     | to wait            |
+| RT -> RR               | kiertää ->minä kierrän, hän kiertää  | to wait            |
+| LKE -> LJE             | sulkea -> minä suljen, hän sulkee    | to close/ shut     |
+| RKE -> RJE             | särkeä -> minä särjen, hän särkee    | to break something |
 - Rules:
-	- only hän/se/he use strong consonant(keep original stem).
+	- only hän/se/he use strong(no change) consonant(keep original stem).
 	- drop two final vowels to find the stem.
 	- use the chart tofind out if it is need to use astevaihtelu.
 	- add the appropriate ending(same as group 1)
 e.g.
 
-|        | ottaa -> ota | miettiä -> mieti |
-| ------ | ------------ | ---------------- |
-| minä   | otan         | mietin           |
-| sinä   | otat         | mietit           |
-| hän/se | ottaa        | miettii          |
-| me     | otamme       | mietimme         |
-| te     | otatte       | mietitte         |
-| he     | ottavat      | miettivät        |
+|                                                           | ottaa -> ota | miettiä -> mieti |
+| --------------------------------------------------------- | ------------ | ---------------- |
+| minä                                                      | otan         | mietin           |
+| sinä                                                      | otat         | mietit           |
+| hän/se(double the last character)                         | ottaa        | miettii          |
+| me                                                        | otamme       | mietimme         |
+| te                                                        | otatte       | mietitte         |
+| he (no change of the stem but add -ovt at last character) | ottavat      | miettivät        |
 
 ## NO!  -> Ei
 

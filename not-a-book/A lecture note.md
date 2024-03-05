@@ -154,3 +154,23 @@
 - Negative sentences
 - juhlapäivä - festival
 	- book - kalevala 
+
+# 3-05-2024
+- Mitä tulee seuraavaksi? What comes next?
+- 
+- Astevaihtelu
+	- Mikä on astevaihtelu?
+	- strong(verb group 1) & weak
+		- only Hän/se and he also take strong form.
+	- steps
+		- Take the basic form of the word.
+		- Look at the *last consonants* of the infinitive.
+		- if the last consonant is K,P,T -> needs to use astevaihtelu.
+			- but not use with ST 
+			- but not use with following verbs:
+				- maksaa (pay)
+				- itkeä (cry)
+				- katsoa (watch)
+				- leuhkia (brag)
+				- todistaa (testify)
+		- use the chart.
