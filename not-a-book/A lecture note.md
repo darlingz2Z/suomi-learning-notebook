@@ -182,5 +182,11 @@
 	- Minulla on hyvä olo...
 - Astevaihtelu
 - Negative Sentences
-	- en, et, ei, emme, ette, eivät + verb
-- 
+	- en, et, ei(hän/se), emme, ette, eivät(he) + verb
+- no dual(duaali) in finnish
+- Miten tämä toimii(to function)? 
+- EITHER -kaan/-kään (-kin also)
+	- The dog is also here
+		- Koirakin on täällä.
+	- The dog is not here either
+		- Koirakaan ei ole täällä.

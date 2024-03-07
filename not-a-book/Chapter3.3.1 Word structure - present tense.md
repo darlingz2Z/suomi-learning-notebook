@@ -36,7 +36,9 @@
 | P -> V                 | saapua -> minä saavun, hän saapuu    | to arrive          |
 | T -> D                 | ehtiä -> minä ehdin, hän ehtii       | to make it in time |
 |                        |                                      |                    |
-| NK -> NG               | ---                                  | ---                |
+| LK -> L                | alkaa -> minä alan, hän alkaa        | to start, to begin |
+| HT -> HD               | unohtaa -> minä unohdan, hän unohtaa | to forget          |
+| NK -> NG               | tinkiä -> minä tingin, hän tinkii    | to bargain         |
 | MP -> MM               | empiä -> minä emmin, hän empii       | to hesitate        |
 | NT -> NN               | antaa -> minä annan, hän antaa       | to give            |
 | LT -> LL               | kieltää -> minä kiellän, hän kieltää | to forbid          |
@@ -61,13 +63,13 @@ e.g.
 
 ## NO!  -> Ei
 
-|        | ei      | ... don't               |
-| ------ | ------- | ----------------------- |
-| minä   | e*n*    | minä e*n* ole~~(n)~~    |
-| sinä   | e*t*    | sinä e*t* ole~~(t)~~    |
-| hän/se | ei      | hän ei ole              |
-| me     | e*mme*  | me e*mme* ole~~(mme)~~  |
-| te     | e*tte*  | te ette ole~~(tte)~~    |
-| he     | ei*vät* | he ei*vät* ole~~(vät)~~ |
+|        | ei      | -ko/-kö | ... don't               |
+| ------ | ------- | ------- | ----------------------- |
+| minä   | e*n*    | enkö    | minä e*n* ole~~(n)~~    |
+| sinä   | e*t*    | etkö    | sinä e*t* ole~~(t)~~    |
+| hän/se | ei      | eikö    | hän ei ole              |
+| me     | e*mme*  | emmekö  | me e*mme* ole~~(mme)~~  |
+| te     | e*tte*  | ettekö  | te ette ole~~(tte)~~    |
+| he     | ei*vät* | eivätkö | he ei*vät* ole~~(vät)~~ |
 - EI is also a verb
-- personal pronouns + appropriate EI + verb original stem
+- personal pronouns + appropriate EI only be impacted by ei) + verb original stem-
