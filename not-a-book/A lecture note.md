@@ -157,20 +157,30 @@
 
 # 3-05-2024
 - Mitä tulee seuraavaksi? What comes next?
-- 
+- For verb 1 - with two vowels at ending
+	1. Remove the last vowel
+	2. Check if it needs to be used with Astevaihtelu
+		- Mikä on astevaihtelu?
+		- strong(verb group 1) & weak
+			- only Hän/se and he also take strong form.
+		- steps
+			- Take the stem.
+			- Look at the *last consonants* of the infinitive.
+			- if the last consonant is K,P,T -> needs to use astevaihtelu.
+				- but not use with ST 
+				- but not use with following verbs:
+					- maksaa (pay)
+					- itkeä (cry)
+					- katsoa (watch)
+					- leuhkia (brag)
+					- todistaa (testify)
+			- use the chart.
+	3. add the personal pronoun (hän/se/he use strong consonant)
+
+# 3-07-2024
+- Mitä kuuluu? Toivottavasti sinulla on iloinen olo!(olo - feeling, atmosphere)
+	- Minulla on hyvä olo...
 - Astevaihtelu
-	- Mikä on astevaihtelu?
-	- strong(verb group 1) & weak
-		- only Hän/se and he also take strong form.
-	- steps
-		- Take the basic form of the word.
-		- Look at the *last consonants* of the infinitive.
-		- if the last consonant is K,P,T -> needs to use astevaihtelu.
-			- but not use with ST 
-			- but not use with following verbs:
-				- maksaa (pay)
-				- itkeä (cry)
-				- katsoa (watch)
-				- leuhkia (brag)
-				- todistaa (testify)
-		- use the chart.
+- Negative Sentences
+	- en, et, ei, emme, ette, eivät + verb
+- 
