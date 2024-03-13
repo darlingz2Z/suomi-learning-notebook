@@ -207,4 +207,4 @@
 		- verbs + personal pronone
 			- Ole Siellä! (Be there tomorrow! )
 			- Nuku jo! (Sleep already! )
-			- Usko minua! (Sleep already! )
+			- Usko minua! (Trust me! )
