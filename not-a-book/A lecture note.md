@@ -182,7 +182,7 @@
 	- Minulla on hyvä olo...
 - Astevaihtelu
 - Negative Sentences
-	- en, et, ei(hän/se), emme, ette, eivät(he) + verb
+	- en, et, ei(hän/se), emme, ette, eivät(he) + verb stem
 - no dual(duaali) in finnish
 - Miten tämä toimii(to function)? 
 - EITHER -kaan/-kään (-kin also)
@@ -190,3 +190,21 @@
 		- Koirakin on täällä.
 	- The dog is not here either
 		- Koirakaan ei ole täällä.
+
+# 3-12-2024
++ verbs
+	+ kääntää - to translate
+	+ tanssia - to dance
+	+ ymmärtää - to understand
+	+ -ksi: into something
+		+ Käänään suomeksi (translate into finnish)
+- Negative Sentence
+- IMPERATIIVI / IMPERATIVE (SINGULAR)
+	- to give commands
+	- Steps
+		- Take the minä form a verb: Olen, Nukun, Uskon
+		- remove -n: ole, nuku, usko
+		- verbs + personal pronone
+			- Ole Siellä! (Be there tomorrow! )
+			- Nuku jo! (Sleep already! )
+			- Usko minua! (Sleep already! )
