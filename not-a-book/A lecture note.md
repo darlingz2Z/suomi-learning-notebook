@@ -208,3 +208,46 @@
 			- Ole Siellä! (Be there tomorrow! )
 			- Nuku jo! (Sleep already! )
 			- Usko minua! (Trust me! )
+
+# 3-21-2024
++ vocabulary
+	+ sama aihe = same topic
+- Mikä on genetiivi?
+	- Genetiivin pääte on -n. The ending for the genitive is -n
+	- 
+- Mitä genetiivi tekee (does)?
+	1. answers the questions ***whose*** and ***of what***? (Genetiivi vastaa kysymykseen: kenen? ja minkä?)
+	2. Used ***in front of postpositions***: under, on top of, next to...
+		- talo*n* alla (under the house); talo*n* päällä (on the top of the house);  talo*n* vieressä(nex to the house);
+	3. used to express ***necessity*** 表达强制命令(pitää/täytyä = must, have to, be obliged to)
+		- Minu*n* pitää oppia. I need to learn.
+		- Koira*n* täytyy nukkua. The dog must sleep.
+	4.  the case of the object (target of action)
+		- genitive: Luen kirjan.I read the book(and until the end).
+			- In Finnish if the object is ***genitive*** that means ***the subject finish the action(until the end).***
+		- The partitive: Luen kirjaa. I read the book(but don't finish it)
+	5. Used in a few more advanced constructions.
+##  Kuinka muoddostaa genetiivi? How to form the genitive?
+- In this course, the rules will work 85%-90% of the time.
+- If you are not sure, just add -n to the word :D
+### The singular of genetiivi:
+#### Personal Pronouns:
+
+| minä                | minun         |                        |
+| ------------------- | ------------- | ---------------------- |
+| sinä                | sinun         |                        |
+| hän/se              | hänen/sen     |                        |
+| me                  | meidän        |                        |
+| te                  | teidän        |                        |
+| he/ne(plural of se) | heidän/niiden | Heidän kirja on paksu. |
+
+#### Words that end in a vowel:
+1. Words that end in one vowel, except e and i: Just add -n (koira -> koira-n)
+2. Words that end in two vowels: Just add -n (työ -> työ-n)
+3. Words that end in a single e: Just add -en (vene -> vene-en)
+4. Words that end in a single i:
+	a.  new words: Just add -n (posti -> postin)
+	b.  old words: Replace -i with -en (pieni -> pien-en)
+	c.  old words that end in -si: replace -si with -den (uusi -> uu-den)
+
+NOTICE: bussi -> ends in -si but is a NEW WORD. So: bussi -> bussin
