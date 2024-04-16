@@ -243,7 +243,7 @@
 
 #### Words that end in a vowel:
 1. Words that end in one vowel, except e and i: Just add -n (koira -> koira-n)
-2. Words that end in two vowels: Just add -n (työ -> työ-n)
+2. Words that end in two vowels, includes e and i: Just add -n (työ -> työ-n)
 3. Words that end in a single e: Just add -en (vene -> vene-en)
 4. Words that end in a single i:
 	a.  new words: Just add -n (posti -> postin)
@@ -251,3 +251,147 @@
 	c.  old words that end in -si: replace -si with -den (uusi -> uu-den)
 
 NOTICE: bussi -> ends in -si but is a NEW WORD. So: bussi -> bussin
+
+# 3-26-2024
+## vocabulary:
+
+## Genetiivi - Words that end with consonant:
+- Four groups:
+	1. end in -nen
+	2. end in -t
+	3. end in -s
+	4. end in -n
+### ending in -nen
+- Many ***adjs & surenames (suomalainen)*** end in -nen.
+- steps: (e.g. keltainen, punainen)
+	1. remove ***-nen*** be a stem: keltai-; punai-
+	2. add ***-sen***: keltai-sen; punai-sen
+Tahdon keltaisen(keltainen) auton(auto). I want a yellow car(genetive case -> whole car, too).
+- kakku - cake
+	- genetive - kakun (whole cake)
+	- partitive - kakkua (part of the cake)
+	- Millaisen(millainen) kakun (what kind of a (whole) cake)?
+- Millainen sth. sb. be.... or sb. verb sth.......
+	- Millainen sth.(nominative, is not a target -> object) verb be...
+	- sb. verb sth...(genetive / partitive, an object)
+### and also remember, partitive will be used in all negative sentences.
+### ending in -t
+- are not very common, but there are some
+	1. words ending in -t
+	2. words ***made out of verbs***
+#### ending in -t originally
+- steps: e.g lyhyt(short), ohut(narrow), olut(beer)
+	1. remove ***-t*** be a stem: lyhy-, ohu-, olu-
+	2. add ***-en***: luhy-en, ohu-en, olu-en
+exception: kevät (spring) -> kevään
+#### words made from verbs ending in -t (usually ending in -nut/-nyt)
+- some adjectives are made out of verbs.
+	- e.g. rakastua(to fall in love) -> rakastunut (in love)
+	- jää (ice) -> jäätyä (to freeze) -> jäätynyt (frozen)
+- These words sometimes end in ***-nut/-nyt***
+- steps: rakastunut, kuollut
+	1. remove ***-ut/-yt***: rakastun-, kuoll- (but leave the ***-n***!)
+	2. add ***-een***: rakastun-een, kuoll-een
+## Muodosta genetiivi
+- Make genitives from the words below.
+- e.g. rakastunut kissa -> rakastuneen kissan
+- Näetkö rakastuneen(rakastunut) kissan(kissa)? Do you see the cat in love?
+
+- adjectives: -va/vä ending usually is the same as -ing in English
+	- asua = to live
+	- Asuva = somebody live in someplace
+	- A dog living in Finland = Suomessa asuva koira
+	- I want a dog that lives in Finland. = Tahdon suomessa asuvan koiran
+	- -ssa/-ssä: in & present case -ing
+		- Olen käynnissä. = I am running (I am in a run)
+
+# 3-28-24
+##  -s
+add -en
+### ending in -as/as
+remove
+add -aan/aan
+### ending in -is
+remove
+add -iin (common)
+add -iksen (rare)
+
+### ending in -us/-ys
+- Two variants:
+	1. remove -us/-ys and add -uden/-yden (usually made from adj): rakkaus -> rakka- -> rakka-uden
+	2. remove ~ and add -uksen/-yksen: kysymys -> kysym- -> kysym-yksen
+
+
+### genitive -> inessive -> elative
+suomalainen ihminen
+genitive: suomalaise***n*** ihmise***n***
+inessive: suomalaise***ssa*** ihmise***ssä***
+elative: suomalaise***sta*** ihmise***stä***
+
+## ending in -n
+### -ton/-tön
+-  without something
+- työtön - jobless; rahaton - without money
+- remove -ton: työ-, raha-
+- add -ttoman/-ttömän: työ-ttöman, raha-ttoman
+### in -in
+- puhelin(phone), avain(key), suoritiin(processor)
+- remove -in: puhel-, ava-, suoritt-
+- add -imen: puhel-imen, ava-imen, suoritt-imen
+
+
+# 4-2-24 Genitive astevaihtelu, n. & adj.
+
+## TYPE A
+- Words that end in a ***vowel*** (except ***e***) -> strong form -> chart A
+	- genitive is in the weak form
+	- K,P,T needs to be the last consonant
+- STEP:
+	1. Find the rule for genitive -> just add -n
+	2. use astevaihtelu
+## TYPE B
+- Words that end in a ***consonant*** or e / i -> weak form -> chart B
+	- genitive is in the strong form
+	- K,P,T is not necessarily the last consonant
+- STEP: lammas(sheep)
+	1. Find the rule for genitive
+		- -as: remove -as, add -ann
+	2. Apply astevaihetelu
+		- lammas -> lamm -> lamp
+	3. result:
+		1. lampaan
+
+
+## How to make the genitive (and many other cases)
+1. Determine Type A or Type B
+2. Determine how to add the genitive ending
+3. Determine if it needs astevaihetelu (the original words)
+5. Result!
+
+## some special words
+lämmin - lämpimän (warm)
+mies - miehen (man)
+kevät - kevään (spring)
+
+# 4-4-24 How to act with food?
+## how to order?
+- Mitä saisi olla? What do you want?
+- Entä mutta? What else?
+- Munkki, kiitos. No more, thank you.
+- Näin, ole hyvä. Hyvää ruokahalua. There you go, Enjoy the meal.
+- Kuinka paljon .... maksaa? How much does... cost?
+
+The things you want + kiitos.
+- Yksi vihreä tee, kiitos!
+- Kaksi kahvi*a* sokerilla, kiitos. (numbers 2 + require partitive -> rection)
+I would like to ( + genitive object) - Minä haluaisin kahvin, kiitos.
++ halua - I want
++ halua*isi*n - I would want (conditional)
+## vocabulary
+Kahvilassa - in a coffee shop
+kanelipulla - cinnamon(kaneli)+bun(pulla)
+voisilmäpulla
+munkki - donunt
+sokeri*lla* tai maido*lla* - with sugar/milk
+kalakeitto - fish soup(soup is popular in Finland)
+favourite - lempi / suosikki
