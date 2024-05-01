@@ -395,3 +395,56 @@ munkki - donunt
 sokeri*lla* tai maido*lla* - with sugar/milk
 kalakeitto - fish soup(soup is popular in Finland)
 favourite - lempi / suosikki
+
+# 4-16-24
+## Kysymyssanat words!
+### Mikä or Mitä?
+What?
+- Mikä(nomitive) se on(olla verb - mikä)? What is it?  
+- Mitä(partitive) kuuluu(another verb - mitä)? How are you? 
+- Mikä asks subject, Mitä asks object.
+### other Kysymyssanat
+- Miksi et nuku? Why? 
+- Milloin koulu alkaa? (koska?) When?
+	- kun - when (simple, not a question word)
+- Missä(inessive) asut? Where are you live?
+- Mistä()?  from where?
+- Mihin? to where? - mennä(to go)
+- Minkä? Of what...
+- Mistä mihin = from...to....
+- Miten / kuinka(how) opit suomea?
+- Kuinka(how) paljon(much) se maksaa?
+	- Miten paljon? / Paljonon?
+- Kuka? who?
+- Milllainen? What kind of...
+	- Mil + lainen 
+	- Maa + lainen - of what nationality?
+	- Kansallisuus - Nationality
+		- Consonant + ilainen
+		- vowel + lainen
+- yes and no question -ko/-kö
+## Suomen monikko (plural)
+- The ending of plural is -t 
+- monen(moni in genitive) + plural case... = genitive + plural case
+
+# 4-18-24
+## sää (the Weather)
+- sää - weather
++ ilma - air
++ Millainen sää/ilma tänään on?
+	+ Sää/ilma on (tänään)...
+	+ On xx sää/lima
++ Millainen sää eilen(yesterday) oli(was)?
++ weathers
+	+ aurinkoinen suuny
+	+ pilvien cloudy
+	+ sateinen rainy
+	+ myrskyinen stromy
+	+ kylmä, kuuma cold, hot
+	+ lämmin, viileä warm, chilly
+	+ kuiva, märkä dry, wet
+- Onko ulkona(outside) kylmä? Is it cold outside?
+## inside case / outside case
+- inside case - inessive (-ssa/-ssä) inside something
+- Tampereessa 
+- outside case - aadessive (-lla/-llä) nearby/ on top of something
